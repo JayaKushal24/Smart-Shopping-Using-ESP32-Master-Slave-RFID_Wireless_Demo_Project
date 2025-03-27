@@ -73,11 +73,5 @@ This project implements a **smart shopping cart system** using **ESP32, RFID, an
 4. View the cart details on the **master’s web interface**.  
 5. The **slave’s LCD display** updates automatically.  
 
-## Demo  
-![Smart Cart Web Interface](https://your-image-url.com)  
-![ESP32 LCD Display](https://your-image-url.com)  
-
-## License  
-This project is open-source under the **MIT License**.  
 
 ---
