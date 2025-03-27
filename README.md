@@ -1,4 +1,4 @@
-# Smart Shopping Cart Using ESP32 & RFID  
+# Smart Shopping Cart Using ESP32 (Master/Slave) & RFID  
 
 ## Overview  
 This project implements a **smart shopping cart system** using **ESP32, RFID, and an I2C LCD display**. The system consists of:  
